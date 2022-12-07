@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 This project is a simple Tic-Tac-Toe game designed with React.
-The game is deployed [here](https://nuel-tictactoe.netlify.app/)
+The game is deployed [here](https://nuel-tictac.netlify.app/)
 ## Available Scripts
 
 In the project directory, you can run:
